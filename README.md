@@ -209,22 +209,6 @@ Abaixo estão todos os pacotes encontrados no projeto, explicados e com instruç
 
 ---
 
-
-
-### Navegação
-- **@react-navigation/native**
-- **@react-navigation/native-stack**
-
-### Backend
-- **@supabase/supabase-js** — conexão com banco e autenticação.
-
-### Armazenamento local
-- **@react-native-async-storage/async-storage** — salvar dados simples no dispositivo.
-
-### Formulários / utilidades (se usados)
-- **react-hook-form** — controle de formulários.
-- **yup** — validação.
-
 ## 📁 Estrutura mínima do projeto
 ```
 src/
